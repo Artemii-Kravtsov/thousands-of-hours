@@ -1,6 +1,6 @@
-<h1 style="font-weight:normal" align="center">
+<h2 style="font-weight:normal" align="center">
   &nbsp;Портфолио проектов по аналитике данных&nbsp;
-</h1>
+</h2>
 <br>
 <h3 style="font-weight:normal" align="center">
 Учебные проекты на любые темы, связанные с аналитикой<br>
@@ -17,9 +17,9 @@
 |4|[Исследование рынка видеоигр](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/4_computer_games_market_over_time.ipynb)|Определение наиболее популярных игровых жанров и игровых платформ в исторической перспективе и в разрезе регионов; выявление актуальных параметров, влияющих на успешность игры|`Pandas` `Matplotlib` `SciPy.Stats`|
 |5|[Обзор данных авиакомпании](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/5_airlines_data_review.ipynb)|Попытка описать авиакомпанию, имея в распоряжении лишь информацию об основных маршрутах и авиапарке|`Pandas` `Matplotlib.Basemap` `Яндекс Геокодер`|
 |6|[Оценка источников трафика](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/6_web_analytics_of_ticket_service.ipynb)|Расчет экономических показателей (метрики юнит-экономики); оценка окупаемости инвестиций в маркетинг; поиск "узкого места" в экономической модели; когортный анализ| `Pandas` `Matplotlib` `Statsmodels` |
-|7|[Изучение результатов одного эксперимента](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/7_typical_ab_test.ipynb)|	Приоритизация гипотез; подготовка переменных для A/B-теста; приятие решения о том, выполнены ли все условия для проведения корректного A/B-теста; сравнение двух групп по нескольким признакам |`Pandas` `Matplotlib`|
+|7|[Изучение результатов одного эксперимента](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/7_typical_ab_test.ipynb)|	Приоритизация гипотез; подготовка переменных; приятие решения о том, выполнены ли все условия для проведения корректного A/B-теста; сравнение двух групп по нескольким признакам |`Pandas` `Matplotlib`|
 |8|[Рынок заведений общественного питания Москвы](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/8_restaurants_in_moscow.ipynb)|Масштабная предобработка данных; подготовка парсера; создание интерактивной карты; подбор оптимальных параметров для открывающегося кафе|`Pandas` `Matplotlib` `Open Street Map` `Plotly`|
-|9|[Событийная аналитика мобильного приложения](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/9_analysing_events_logs.ipynb)|Описание воронки событий (от первого запуска до покупки); поиск разницы между клиентской и пользовательской сессиями в приложении; когортный анализ; сравнение конверсий в группах по принципу A/B-теста|`Pandas` `Plotly` `Matplotlib` `SciPy.Stats`|
+|9|[Событийная аналитика мобильного приложения](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/9_analysing_events_logs.ipynb)|Описание воронки событий (от первого запуска до покупки); поиск разницы между клиентской и пользовательской сессиями; когортный анализ; сравнение конверсий в группах по принципу A/B-теста|`Pandas` `Plotly` `Matplotlib` `SciPy.Stats`|
 |10|Создание дашборда|Создание пайплайна для получения данных из БД; проведение анализа взаимодействия пользователей сервиса с карточками; создание дашборда в Tableau Public; подготовка презентации|-|
 |11|Прогнозирование вероятности оттока посетителей фитнес-центра|Прогноз вероятности оттока посетителей в следующем месяце; определение основных признаков влияющих на отток; составление портрета посетителей; предложение мер по снижению оттока|-|
 
