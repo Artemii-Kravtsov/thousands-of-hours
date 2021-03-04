@@ -11,7 +11,7 @@
 
 |№|Название проекта|Описание|Стек|
 |:-----:|-----|:-----:|-----|
-|1|<a href="https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/1_credit_scoring_leads.ipynb" target="_blank">Исследование надёжности заёмщиков</a>|Изучение данных в столбцах; анализ пропусков; лемматизация; создание сводных таблиц| Первые шаги в `Pandas` |
+|1|[Исследование надёжности заёмщиков](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/1_credit_scoring_leads.ipynb)|Изучение данных в столбцах; анализ пропусков; лемматизация; создание сводных таблиц| Первые шаги в `Pandas` |
 |2|[Исследование объявлений о продаже квартир](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/2_prices_on_real_estate_market.ipynb)|Масштабная предобработка данных; поиск корреляций между стоимостью объектов недвижимости и их характеристиками| `Pandas`, первые шаги в `Matplotlib` |
 |3|[Поиск наиболее перспективного пользовательского тарифа](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/3_comparison_of_two_pricing_plans.ipynb)|Объединение данных из пяти таблиц в одну; изучение аномалий в данных; сравнение двух тарифов по нескольким критериям и вывод о том, который из них может быть наиболее выгодным| `Pandas` `Matplotlib`, первый t-тест |
 |4|[Исследование рынка видеоигр](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/4_computer_games_market_over_time.ipynb)|Определение наиболее популярных игровых жанров и игровых платформ в исторической перспективе и в разрезе регионов; выявление актуальных параметров, влияющих на успешность игры|`Pandas` `Matplotlib` `SciPy.Stats`|
