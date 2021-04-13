@@ -1,4 +1,4 @@
-# Оценка источников трафика
+# Изучений результатов одного эксперимента
 [Открыть проект в NBViewer](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/7_typical_ab_test.ipynb)
 <br>
 
