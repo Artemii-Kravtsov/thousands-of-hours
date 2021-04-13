@@ -1,4 +1,4 @@
-# Исследование объявлений о продаже квартир
+# Рынок заведений общественного питания Москвы
 [Рынок заведений общественного питания Москвы](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/8_restaurants_in_moscow.ipynb)
 <br>
 
