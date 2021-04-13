@@ -1,4 +1,4 @@
-# Исследование объявлений о продаже квартир
+# Поиск наиболее перспективного пользовательского тарифа
 [Открыть проект в NBViewer](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/3_comparison_of_two_pricing_plans.ipynb)
 <br>
 
