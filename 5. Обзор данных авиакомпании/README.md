@@ -1,5 +1,5 @@
 # Обзор данных авиакомпании
-[Открыть проект в NBViewer](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/5_airlines_data_review.ipynb)
+[Открыть проект в NBViewer](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/5.%20%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/5_airlines_data_review.ipynb)
 <br>
 
 ## Задачи 
