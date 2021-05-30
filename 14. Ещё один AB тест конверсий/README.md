@@ -1,5 +1,5 @@
 # Ещё один A/B-тест конверсий
-[Открыть проект в NBViewer](https://nbviewer.jupyter.org/github/Artemii-Kravtsov/thousands-of-hours/blob/master/14.%20%D0%95%D1%89%D1%91%20%D0%BE%D0%B4%D0%B8%D0%BD%20A-B%20%D1%82%D0%B5%D1%81%D1%82%20%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9/14_yet_another_ab_test_for_conversions.ipynb)
+[Открыть проект в NBViewer]()
 <br>
 
 ## Задачи 
